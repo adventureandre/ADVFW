@@ -15,6 +15,8 @@ $Link = new Link;
     <link rel="stylesheet" href="<?=INCLUDE_PATH ?>/css/style.css">
     <?php
     $Link->getTags();
+    
+    
     ?>
 </head>
 <body>

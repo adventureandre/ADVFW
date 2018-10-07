@@ -1,0 +1,20 @@
+{
+    "name": "adventureandre/ADVfw",
+    "description": "meu primeiro repositorio",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Andre luiz",
+            "email": "adventureandre@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	"adventureandre/ADVfw":"first commit"
+	},
+	 "autoload": {
+        "psr-4": {
+            "adventureandre\\": "vendor\\adventureandre\\php-classes\\src"
+        }
+    }
+}
