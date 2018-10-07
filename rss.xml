@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>UpInside Treinamentos - Cursos Profissionais em TI</title>
+        <link>https://www.upinside.com.br/projetos/wshtml5/</link>
+        <description>Os melhores e mais completos cursos de desenvolvimento web e TI você encontra aqui. Cursos online 100% em vídeo aulas, com suporte especializado e certificado!</description>
+        <language>pt-br</language>
+        <item>
+            <title>Conheça o Curso WS HTML5</title>
+            <link>https://www.upinside.com.br/projetos/wshtml5/</link>
+            <pubDate>Wed, 01 Oct 2014 16:19:12 -0300</pubDate>
+            <description>Os melhores e mais completos cursos de desenvolvimento web e TI você encontra aqui. Cursos online 100% em vídeo aulas, com suporte especializado e certificado!</description>
+        </item>
+        <item>
+            <title>Mais Sobre o Método HTML5 do Jeito Certo!</title>
+            <link>https://www.upinside.com.br/projetos/wshtml5/sobre</link>
+            <pubDate>Wed, 01 Oct 2014 16:19:12 -0300</pubDate>
+            <description>Veja mais detalhes sobre o método HTML5 do Jeito Certo, Conheça a Escola e o Professor!</description>
+        </item>
+        <item>
+            <title>Boot CSS para Forms e Formulários com HTML5</title>
+            <link>https://www.upinside.com.br/projetos/wshtml5/contato</link>
+            <pubDate>Wed, 01 Oct 2014 16:19:12 -0300</pubDate>
+            <description>Veja como aplicar CSS genérico para formulários, ainda aprenda sobre os novos campos do HTML5!</description>
+        </item>
+        <item>
+            <title>É hora de dar um Upgrade em suas técnicas de desenvolvimento</title>
+            <link>https://www.upinside.com.br/projetos/wshtml5/single-post</link>
+            <pubDate>Wed, 01 Oct 2014 16:19:12 -0300</pubDate>
+            <description>Confira aqui o vídeo de lançamento do curso WS HTML5, e saiba porque ele vai dar um Upgrade em suas técnicas de desenvolvimento. Aprenda a estilizar, marcar, distribuir, otimizar e lançar projetos para internet!</description>
+        </item>
+    </channel>
+</rss>
