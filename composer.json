@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-	"adventureandre/ADVfw":"first commit"
+	"adventureandre/ADVfw":">=1.0.1"
 	},
 	 "autoload": {
         "psr-4": {

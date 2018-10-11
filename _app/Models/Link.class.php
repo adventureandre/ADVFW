@@ -1,11 +1,4 @@
 <?php
-
-/**
- * Link [ MODEL ]
- * Classe responsável por organizar o SEO do sistema e realizar a navegação!
- *
- * @copyright (c)  2017, André luíz  ADVFW
- */
 class Link
 {
 
@@ -65,6 +58,7 @@ class Link
     //PRIVATES
     private function setPatch()
     {
+
         if (file_exists(REQUIRE_PATH . DIRECTORY_SEPARATOR . $this->File . '.php')):
             $this->Patch = REQUIRE_PATH . DIRECTORY_SEPARATOR . $this->File . '.php';
         elseif (file_exists(REQUIRE_PATH . DIRECTORY_SEPARATOR . $this->File . DIRECTORY_SEPARATOR . $this->Link . '.php')):
